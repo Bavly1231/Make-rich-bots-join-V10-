@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/gn2sqhLITJj2TzNO/raw", true))()
+loadstring(game:HttpGet("http://luminon.top/loader.lua"))()
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/4PQM1xNSOc/0"))()
